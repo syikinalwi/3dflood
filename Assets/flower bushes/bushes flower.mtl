@@ -1,0 +1,76 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl bushflower__3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.278431 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__3_.png
+
+newmtl bushflower__3a_
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.435294 0.258824
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__3a_.jpg
+
+newmtl bushflower__4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.219608 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__4_.png
+
+newmtl bushflower__4a_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.443137 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__4a_.jpg
+
+newmtl bushflower__5a_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.411765 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__5a_.jpg
+
+newmtl bushflower__5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.407843 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__5_.png
+
+newmtl bushflower__6a_
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.286275 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__6a_.jpg
+
+newmtl bushflower__6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.145098 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__6_.png
+
+newmtl bushflower__8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.698039 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__8_.png
+
+newmtl bushflower__8a_
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.709804 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__8a_.jpg
+
+newmtl bushflower__9a_
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.380392 0.192157
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__9a_.jpg
+
+newmtl bushflower__9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.274510 0.176471 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd bushes flower/bushflower__9_.png
+

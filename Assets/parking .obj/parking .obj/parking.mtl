@@ -1,0 +1,45 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl BleuPastel6
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.192157 0.141176
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+map_Kd parking/BleuPastel6.jpg
+
+newmtl _Concrete_rough_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.239216 0.219608
+Ks 0.330000 0.330000 0.330000
+map_Kd parking/_Concrete_rough_3.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Gainsboro_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.862745 0.862745
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Glass_Gold_Tint_
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.937255 0.560784
+Ks 0.330000 0.330000 0.330000
+d 0.800000
+map_Kd parking/_Glass_Gold_Tint_.jpg
+
+newmtl _LightCoral_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.643137 0.674510
+Ks 0.330000 0.330000 0.330000
+map_Kd parking/_LightCoral_2.jpg
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
