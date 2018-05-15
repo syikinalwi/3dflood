@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl sarki
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.749020 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd fish2/sarki.png
+
+newmtl Lahna1
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.635294 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd fish2/Lahna1.png
+

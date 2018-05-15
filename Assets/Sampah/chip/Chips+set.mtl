@@ -1,0 +1,88 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl xzela__128_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.435294 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__128_1.jpg
+
+newmtl xzela__54_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.470588 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__54_1.jpg
+
+newmtl xzela__55_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.443137 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__55_1.jpg
+
+newmtl xzela__51_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.474510 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__51_1.jpg
+
+newmtl xzela__50_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.356863 0.482353 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__50_1.jpg
+
+newmtl xzela__63_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.215686 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__63_1.jpg
+
+newmtl xzela__64_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.266667 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__64_1.jpg
+
+newmtl xzela__64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.349020 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__64_.jpg
+
+newmtl xzela__63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.278431 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__63_.jpg
+
+newmtl xzela__128_
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.607843 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__128_.jpg
+
+newmtl xzela__55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.572549 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__55_.jpg
+
+newmtl xzela__54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.584314 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__54_.jpg
+
+newmtl xzela__51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.674510 0.831373
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__51_.jpg
+
+newmtl xzela__50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.678431 0.800000
+Ks 0.330000 0.330000 0.330000
+map_Kd Chips+set/xzela__50_.jpg
+
